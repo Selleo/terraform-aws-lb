@@ -1,6 +1,6 @@
-# Terraform RENAME_ME module
+# Terraform AWS LB module
 
-TODO
+Load balancer module.
 
 <!-- BEGIN_TF_DOCS -->
 
